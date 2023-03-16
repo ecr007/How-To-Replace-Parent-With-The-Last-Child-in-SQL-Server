@@ -1,0 +1,1 @@
+# How-To-Replace-Parent-With-The-Last-Child-in-SQL-Server
